@@ -1,0 +1,11 @@
+baseURL = "https://xenspec.96599.tv/"
+languageCode = "zh-CN"
+title = "菠萝的网址收藏"
+theme = "hugo-bookmark"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "Pineapple"
+  description = "Pineapple's BookMark"

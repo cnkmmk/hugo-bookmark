@@ -1,0 +1,399 @@
+---
+
+- taxonomy: 空间域名
+  icon: linecons-star
+  list:
+    - term: 邮箱管理
+      links:
+        - title: 163网易免费邮
+          url: http://mail.163.com/
+          logo: assets/images/logos/163.ico
+        - title: 网易企业邮箱
+          url: http://qiye.163.com/login/?from=ym
+          logo: assets/images/logos/163.ico
+    - term: 空间管理
+      links: 
+        - title: Bandwagon Host
+          url: https://bandwagonhost.com/
+          logo: assets/images/logos/default.ico
+        - title: XenSpec
+          url: https://xenspec.com/
+          logo: assets/images/logos/xenspec.ico
+        - title: PacificRack
+          url: https://pacificrack.com/
+          logo: assets/images/logos/pacificrack.ico
+    - term: 域名管理
+      links:
+        - title: DNSPOD
+          url: https://www.dnspod.cn/
+          logo: assets/images/logos/dnspod.ico
+        - title: Cloudflare
+          url: https://www.cloudflare.com/
+          logo: assets/images/logos/cloudflare.ico
+
+
+- taxonomy: Linux相关
+  icon: linecons-doc
+  links: 
+    - title: 中国Linux公社
+      url: http://www.linuxfans.org
+      logo: assets/images/logos/linuxfans.ico
+    - title: debian吧
+      url: https://tieba.baidu.com/f?kw=debian&ie=utf-8
+      logo: assets/images/logos/tieba.ico
+    - title: Ubuntu中文论坛
+      url: https://forum.ubuntu.org.cn/
+      logo: assets/images/logos/ubuntu.ico
+    - title: Arch Linux 中文论坛
+      url: https://bbs.archlinuxcn.org/
+      logo: assets/images/logos/archlinux.ico
+    - title: DistroWatch.com
+      url: https://distrowatch.com/
+      logo: assets/images/logos/distrowatch.ico
+    - title: Linux伊甸园
+      url: http://www.linuxeden.com/
+      logo: assets/images/logos/linuxeden.ico
+    
+
+- taxonomy: 论坛
+  icon: linecons-lightbulb
+  list: 
+    - term: 游戏论坛
+      links:
+        - title: A9VG电玩部落论坛
+          url: https://bbs.a9vg.com/
+          logo: assets/images/logos/a9vg.ico
+        - title: 完全实况-足球迷的家
+          url: http://bbs.we11cn.com/
+          logo: assets/images/logos/we11cn.ico
+        - title: 虾哥论坛-YY语音论坛
+          url: https://xiage.yy.com/
+          logo: assets/images/logos/xiageyy.ico
+        - title: 核心玩家的集中营-91wii
+          url: https://www.91wii.com/
+          logo: assets/images/logos/91wii.ico
+      
+    - term: 未分类论坛
+      links:
+        - title: PT吧
+          url: https://tieba.baidu.com/f?kw=pt&ie=utf-8
+          logo: assets/images/logos/tieba.ico
+        - title: IT007
+          url: http://www.it007.com/
+          logo: assets/images/logos/it007.ico
+        - title: 远景论坛
+          url: http://bbs.pcbeta.com/
+          logo: assets/images/logos/pcbeta.ico
+        - title: 隔壁网
+          url: http://www.gebi1.com/
+          logo: assets/images/logos/gebi1.ico
+        - title: Firefox中文社区
+          url: https://www.firefox.net.cn/
+          logo: assets/images/logos/firefox.ico
+        - title: 禁忌书屋
+          url: https://www.cool18.com/bbs4/index.php
+          logo: assets/images/logos/cool18.ico
+        - title: AutoIt中文论坛
+          url: https://www.autoitx.com/
+          logo: assets/images/logos/autoitx.ico
+        - title: 恩山无线论坛
+          url: https://www.right.com.cn/
+          logo: assets/images/logos/right.ico
+        - title: 外设天下
+          url: https://www.wstx.com/
+          logo: assets/images/logos/wstx.ico
+        - title: 伊莉討論區
+          url: http://www.eyny.com/
+          logo: assets/images/logos/eyny.ico
+        - title: 春滿四合院
+          url: http://www.spring4u.info/
+          logo: assets/images/logos/spring4u.ico
+        - title: M-Team论坛
+          url: https://bbs.m-team.cc/
+          logo: assets/images/logos/m-team.ico
+        - title: Doom9's Forum
+          url: http://forum.doom9.org/
+          logo: assets/images/logos/doom9.ico
+        - title: IT运维专家网论坛
+          url: http://bbs.linuxtone.org
+          logo: assets/images/logos/linuxtone.ico
+        - title: KoolShare
+          url: https://koolshare.cn
+          logo: assets/images/logos/koolshare.ico
+        - title: 矿渣社区
+          url: https://bbs.nas66.com
+          logo: assets/images/logos/default.ico
+
+      
+- taxonomy: 小说
+  icon: linecons-thumbs-up
+  links:
+    - title: 起点中文网
+      url: https://www.qidian.com/
+      logo: assets/images/logos/qidian.ico
+    - title: 纵横中文网
+      url: http://www.zongheng.com/
+      logo: assets/images/logos/zongheng.ico
+    - title: 17k小说网
+      url: http://www.17k.com/
+      logo: assets/images/logos/17k.ico
+    - title: 创世中文网
+      url: http://chuangshi.qq.com/
+      logo: assets/images/logos/chuangshi.ico
+    - title: 知轩藏书
+      url: http://www.zxcs.me/
+      logo: assets/images/logos/zxcs.ico
+
+
+- taxonomy: 下载
+  icon: linecons-diamond
+  list: 
+    - term: PT下载
+      links:
+        - title: M-Team
+          url: https://pt.m-team.cc
+          logo: assets/images/logos/m-team.ico
+        - title: HDSky
+          url: https://hdsky.me
+          logo: assets/images/logos/hdsky.ico
+        - title: HDHome
+          url: https://hdhome.org/
+          logo: assets/images/logos/hdhome.ico
+        - title: TTG
+          url: https://totheglory.im/
+          logo: assets/images/logos/totheglory.ico
+        - title: springsunday
+          url: https://springsunday.net/
+          logo: assets/images/logos/springsunday.ico
+        - title: OpenCD
+          url: https://open.cd
+          logo: assets/images/logos/opencd.ico
+        - title: HDChina
+          url: https://hdchina.org
+          logo: assets/images/logos/hdchina.ico
+        - title: JoyHD
+          url: https://www.joyhd.net
+          logo: assets/images/logos/joyhd.ico
+        - title: HDME.eu
+          url: https://hdme.eu
+          logo: assets/images/logos/hdmeeu.ico
+
+    - term: 综合下载
+      links:
+        - title: 站长下载
+          url: http://down.chinaz.com/
+          logo: assets/images/logos/chinaz.ico
+        - title: 非凡软件站
+          url: https://www.crsky.com/
+          logo: assets/images/logos/crsky.ico
+        - title: 华军软件园
+          url: https://www.onlinedown.net/
+          logo: assets/images/logos/onlinedown.ico
+        - title: 天空下载站
+          url: http://www.skycn.com/
+          logo: assets/images/logos/default.ico
+        - title: 下载吧
+          url: https://www.xiazaiba.com/
+          logo: assets/images/logos/xiazaiba.ico
+        - title: Softpedia
+          url: https://www.softpedia.com/
+          logo: assets/images/logos/softpedia.ico
+        - title: MajorGeeks
+          url: https://www.majorgeeks.com/
+          logo: assets/images/logos/majorgeeks.ico
+        - title: 码云-Gitee
+          url: https://gitee.com/
+          logo: assets/images/logos/gitee.ico
+        - title: 彼岸桌面
+          url: http://www.netbian.com/
+          logo: assets/images/logos/netbian.ico
+        - title: 动漫花园
+          url: http://share.dmhy.org/
+          logo: assets/images/logos/dmhy.ico
+        - title: Github
+          url: https://github.com/
+          logo: assets/images/logos/github.ico
+        - title: fastgit-Github加速站
+          url: https://hub.fastgit.org/
+          logo: assets/images/logos/github.ico
+        - title: 字幕库
+          url: http://www.zimuku.la/
+          logo: assets/images/logos/zimuku.ico
+        - title: RARBG
+          url: https://rarbgprx.org
+          logo: assets/images/logos/rarbgprx.ico
+        - title: 射手网(伪)
+          url: https://assrt.net/
+          logo: assets/images/logos/assrt.ico
+    
+    - term: 专用软件
+      links:
+        - title: firefox下载
+          url: http://ftp.mozilla.org/pub/firefox/releases/
+          logo: assets/images/logos/firefox.ico
+        - title: Chrome下载
+          url: https://www.lanzous.com/b138066
+          logo: assets/images/logos/chrome.ico
+        - title: SuperSlide
+          url: http://www.superslide2.com/
+          logo: assets/images/logos/default.ico
+        - title: processwire
+          url: https://processwire.com/
+          logo: assets/images/logos/processwire.ico
+        - title: JEECMS
+          url: https://www.jeecms.com/
+          logo: assets/images/logos/default.ico
+        - title: Transmission
+          url: https://transmissionbt.com/
+          logo: assets/images/logos/transmission.ico
+        - title: FindYoutube
+          url: http://www.findyoutube.com/
+          logo: assets/images/logos/findyoutube.ico
+        - title: FFMPEG
+          url: http://www.ffmpeg.org
+          logo: assets/images/logos/ffmpeg.ico
+        - title: IrfanView
+          url: https://www.irfanview.com/
+          logo: assets/images/logos/irfanview.ico
+
+- taxonomy: 学习
+  icon: linecons-graduation-cap
+  links:
+    - title: 运维生存时间
+      url: http://www.ttlsa.com/
+      logo: assets/images/logos/ttlsa.ico
+    - title: Pocket
+      url: https://getpocket.com/
+      logo: assets/images/logos/pocket.ico
+    - title: Dream Template
+      url: http://www.dreamtemplate.com/
+      logo: assets/images/logos/dreamtemplate.ico
+    - title: CSDN - 专业开发者社区
+      url: https://www.csdn.net/
+      logo: assets/images/logos/csdn.ico
+    - title: Python中文社区
+      url: https://bbs.pythontab.com/
+      logo: assets/images/logos/pythontab.ico
+    - title: 慕课网
+      url: https://www.imooc.com/
+      logo: assets/images/logos/imooc.ico
+    - title: 网易云课堂
+      url: https://study.163.com/
+      logo: assets/images/logos/study163.ico
+    - title: 脚本之家
+      url: https://www.jb51.net
+      logo: assets/images/logos/jb51.ico
+    - title: 菜鸟教程
+      url: https://www.runoob.com/
+      logo: assets/images/logos/runoob.ico
+    - title: 网页设计师
+      url: http://www.w3cn.org/
+      logo: assets/images/logos/w3cn.ico
+    - title: 小象学院
+      url: http://www.chinahadoop.cn/
+      logo: assets/images/logos/chinahadoop.ico
+    - title: w3school 在线教程
+      url: https://www.w3school.com.cn/
+      logo: assets/images/logos/w3school.ico
+    - title: PHPChina开发者社区
+      url: http://www.phpchina.com/
+      logo: assets/images/logos/phpchina.ico
+    - title: ChinaUnix
+      url: http://bbs.chinaunix.net/
+      logo: assets/images/logos/chinaunix.ico
+    - title: 51CTO.COM
+      url: https://www.51cto.com/
+      logo: assets/images/logos/51cto.ico
+    - title: 酷站代码
+      url: http://www.5icool.org/
+      logo: assets/images/logos/5icool.ico
+    - title: 响应式网站测试
+      url: http://www.responsivepx.com/
+      logo: assets/images/logos/responsivepx.ico
+    - title: Web 开发技术
+      url: https://developer.mozilla.org/zh-CN/docs/Web
+      logo: assets/images/logos/mozilla.ico
+
+
+- taxonomy: 资讯
+  icon: linecons-user
+  links: 
+    - title: cnBeta中文业界资讯站
+      url: https://www.cnbeta.com/
+      logo: assets/images/logos/cnbeta.ico
+    - title: DoNews
+      url: https://www.donews.com/
+      logo: assets/images/logos/donews.ico
+    - title: AlternativeTo
+      url: https://alternativeto.net/
+      logo: assets/images/logos/alternativeto.ico
+    - title: 新浪微博
+      url: https://weibo.com/
+      logo: assets/images/logos/weibo.ico
+    - title: 随手记
+      url: https://www.sui.com/
+      logo: assets/images/logos/sui.ico
+    - title: 百度翻译
+      url: https://fanyi.baidu.com/
+      logo: assets/images/logos/fanyibaidu.ico
+    - title: Google Translate
+      url: https://translate.google.cn/?hl=en#en|zh-CN|
+      logo: assets/images/logos/translategoogle.ico
+    - title: 中广互联
+      url: https://www.tvoao.com/
+      logo: assets/images/logos/tvoao.ico
+    - title: YouTube
+      url: https://www.youtube.com/
+      logo: assets/images/logos/youtube.ico
+    - title: 小众软件
+      url: http://www.appinn.com/
+      logo: assets/images/logos/appinn.ico
+    - title: Facebook
+      url: https://www.facebook.com
+      logo: assets/images/logos/facebook.ico
+    - title: Twitter
+      url: https://twitter.com/
+      logo: assets/images/logos/twitter.ico
+    - title: BiliBili
+      url: https://www.bilibili.com/
+      logo: assets/images/logos/bilibili.ico
+    - title: 知乎
+      url: https://www.zhihu.com/
+      logo: assets/images/logos/zhihu.ico
+    - title: 豆瓣
+      url: https://www.douban.com/
+      logo: assets/images/logos/douban.ico
+    - title: Imgur
+      url: https://imgur.com/
+      logo: assets/images/logos/imgur.ico
+    - title: OSCHINA
+      url: https://www.oschina.net/
+      logo: assets/images/logos/oschina.ico
+      
+- taxonomy: 购物
+  icon: linecons-shop
+  links: 
+    - title: 淘宝网
+      url: https://www.taobao.com/
+      logo: assets/images/logos/taobao.ico
+    - title: 阿里妈妈
+      url: https://www.alimama.com/
+      logo: assets/images/logos/alimama.ico
+    - title: 阿里巴巴
+      url: https://www.1688.com/
+      logo: assets/images/logos/1688.ico
+    - title: 什么值得买
+      url: https://www.smzdm.com/
+      logo: assets/images/logos/smzdm.ico
+    - title: 京东(JD.COM)
+      url: https://www.jd.com/
+      logo: assets/images/logos/jd.ico
+    - title: 考拉海购
+      url: https://www.kaola.com/
+      logo: assets/images/logos/kaola.ico
+    - title: 当当网
+      url: http://www.dangdang.com/
+      logo: assets/images/logos/dangdang.ico
+    - title: china-pub
+      url: http://www.china-pub.com/
+      logo: assets/images/logos/china-pub.ico
