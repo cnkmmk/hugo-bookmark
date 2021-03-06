@@ -11,6 +11,7 @@
         - title: 网易企业邮箱
           url: http://qiye.163.com/login/?from=ym
           logo: assets/images/logos/163.ico
+
     - term: 空间管理
       links: 
         - title: Bandwagon Host
@@ -22,7 +23,8 @@
         - title: PacificRack
           url: https://pacificrack.com/
           logo: assets/images/logos/pacificrack.ico
-    - term: 域名管理
+
+    - term: DNS管理
       links:
         - title: DNSPOD
           url: https://www.dnspod.cn/
