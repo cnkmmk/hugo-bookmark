@@ -35,6 +35,9 @@
         - title: Cloudflare
           url: https://www.cloudflare.com/
           logo: assets/images/logos/cloudflare.ico
+        - title: Hurricane Electric Hosted DNS
+          url: https://dns.he.net/
+          logo: assets/images/logos/dnshe.ico
 
 
 - taxonomy: Linux相关
