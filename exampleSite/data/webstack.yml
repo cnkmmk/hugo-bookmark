@@ -263,6 +263,9 @@
         - title: IrfanView
           url: https://www.irfanview.com/
           logo: assets/images/logos/irfanview.ico
+        - title: Hugo
+          url: https://gohugo.io/
+          logo: assets/images/logos/gohugo.ico
 
 - taxonomy: 学习
   icon: linecons-graduation-cap
